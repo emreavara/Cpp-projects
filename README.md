@@ -5,3 +5,4 @@ This project includes the source codes of the Bogazici University EE242 Numerica
 
 - [Project 1:](https://github.com/emreavara/Cpp-projects/tree/master/gaussian-elimination-with-partial-pivoting) Gaussian Elimination with Partial Pivoting
 - [Project 2:](https://github.com/emreavara/Cpp-projects/tree/master/Eigenvalues%20using%20normalized%20power%20iteration%20algorith) Eigenvalues using normalized power iteration algorithm
+- [Project 3:](https://github.com/emreavara/Cpp-projects/tree/master/Polynomial%20-%20Secant%20and%20Bisection%20algorithm) Secant and Bisection Methods
